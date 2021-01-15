@@ -1,0 +1,4 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repositries/InquiryRepository.class
+com/example/demo/controllers/RootController.class
+com/example/demo/models/InquiryForm.class
