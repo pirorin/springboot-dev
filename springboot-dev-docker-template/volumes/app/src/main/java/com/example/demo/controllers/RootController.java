@@ -26,7 +26,7 @@ public class RootController {
 
 	@GetMapping("/form")
 	public String form(InquiryForm inquiryForm) {
- 		return "root/form";
+		return "root/form";
 	}
 
 	@PostMapping("/form")
